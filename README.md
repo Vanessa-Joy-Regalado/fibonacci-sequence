@@ -3,7 +3,6 @@
 <title> FIBONACCI</title>
 </head>
 <body style="background-color:pink"> 
-<h3 style="text-align:center; color:Red">FIBONACCI SEQUENCE </h3>
 <script type="text/javascript">
 
 var limit = prompt("Enter the limit 'n' to generate the fibonacci number:", " ");
